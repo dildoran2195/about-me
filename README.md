@@ -7,7 +7,7 @@
 * I am a sophomore
 * I love my besties
 * I am Asian
-**I love  My family**
+* **I love  My family**
 * **I love Islam**
 * **I don't like HSTAT**
 # I like SEP
