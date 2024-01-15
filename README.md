@@ -14,7 +14,7 @@
 # I don't like SEP
 ###### I have 2 lovely siblings!!!
 [This is my GC](https://classroom.google.com/u/0/c/NTg5NDk0MTQ0MzEy/a/NjM5MTgwMjY0ODIx/details)
-_I love money_
-_I love Tesla Model 3_
-**Hello Barbie**
+* _I love money_
+* _I love Tesla Model 3_
+* **Hello Barbie**
 
