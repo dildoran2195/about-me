@@ -7,4 +7,5 @@
 * I am a sophomore
 * I love my besties
 * I am Asian
-* * * My family
+* * I love  My family
+**I love Islam**
