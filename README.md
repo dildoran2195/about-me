@@ -5,3 +5,4 @@
 #### I have 10 classes in my schedule
 ### Bio
 * I am a sophomore
+* I love my besties
