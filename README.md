@@ -6,3 +6,4 @@
 ### Bio
 * I am a sophomore
 * I love my besties
+* I am Asian
