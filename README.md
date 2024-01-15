@@ -7,7 +7,7 @@
 * I am a sophomore
 * I love my besties
 * I am Asian
-* * I love  My family
+**I love  My family**
 **I love Islam**
 **I don't like HSTAT**
 # I like SEP
@@ -16,4 +16,5 @@
 [This is my GC](https://classroom.google.com/u/0/c/NTg5NDk0MTQ0MzEy/a/NjM5MTgwMjY0ODIx/details)
 _I love money_
 _I love Tesla Model 3_
+**Hello**
 
